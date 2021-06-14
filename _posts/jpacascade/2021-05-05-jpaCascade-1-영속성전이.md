@@ -13,7 +13,7 @@ Description: 영속 전이
 
 ### 예: 부모 엔티티를 저장할 때 자식 엔티티도 함께 저장.
 
-![JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-21__1.47.51.png](JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-21__1.47.51.png)
+![_2021-05-21__1.47.51.png](/images/jpacascade/_2021-05-21__1.47.51.png)
 
 ### 저장
 
@@ -21,7 +21,7 @@ Description: 영속 전이
 @OneToMany(mappedBy="parent", cascade=CascadeType.PERSIST)
 ```
 
-![JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-21__1.48.12.png](JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-21__1.48.12.png)
+![_2021-05-21__1.48.12.png](/images/jpacascade/_2021-05-21__1.48.12.png)
 
 - 영속성 전이는 연관관계를 매핑하는 것과 아무 관련이 없음
 - 엔티티를 영속화할 때 연관된 엔티티도 함께 영속화하는 편리함을 제공할 뿐
@@ -163,7 +163,7 @@ public class JpaMain {
 
 **결과 )**
 
-![JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-31__3.35.54.png](JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-31__3.35.54.png)
+![_2021-05-31__3.35.54.png](/images/jpacascade/_2021-05-31__3.35.54.png)
 
 부모의 엔티티만 persist 했지만 부모가 갖고있는 자식 엔티티까지 persist가 전이되는걸 확인할 수 있습니다.
 
@@ -208,18 +208,16 @@ public class JpaMain {
 
 **결과 )**
 
-![JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-31__3.42.10.png](JPA%20CASCADE%209916fc8c5503485eb46e9d1841b9f61f/_2021-05-31__3.42.10.png)
+![_2021-05-31__3.42.10.png](/images/jpacascade/_2021-05-31__3.42.10.png)
 
 부모의 엔티티만 remove 했지만 부모와 연관된 자식 엔티티까지 함께 삭제되는걸 볼 수 있습니다.
 
-출처:
 
-[https://coding-start.tistory.com/159](https://coding-start.tistory.com/159)
-
-[코딩스타트]
-
-출처:
-
-[https://postitforhooney.tistory.com/entry/JavaJPAHibernate-CascadeType란-그리고-종류](https://postitforhooney.tistory.com/entry/JavaJPAHibernate-CascadeType%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A2%85%EB%A5%98)
 
 [PostIT]
+
+- references:
+  - [https://coding-start.tistory.com/159](https://coding-start.tistory.com/159)
+  - [https://postitforhooney.tistory.com/entry/JavaJPAHibernate-CascadeType란-그리고-종류](https://postitforhooney.tistory.com/entry/JavaJPAHibernate-CascadeType%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A2%85%EB%A5%98)
+- Written by: 박상길 (fkdl3919@gmail.com)
+- reporting date: 2021-05-16
