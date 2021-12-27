@@ -1,13 +1,16 @@
 # Site navigation links
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
-# - title: Tags
-#   url: /tags/
-- title: About
-  url: /about/
-- title: Search
-  url: /search/
+# default 로 변경
+# - title: Home
+#   url: /
+# - title: Posts
+#   url: /posts/
+# - title: Categories
+#   url: /categories/
+# # - title: Tags
+# #   url: /tags/
+# - title: About
+#   url: /about/
+# - title: Search
+#   url: /search/
