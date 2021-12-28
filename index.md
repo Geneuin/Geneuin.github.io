@@ -146,7 +146,7 @@ entries_layout: list
 <br>
 <br>
 
-<!-- ## Team Geneuin Skills
+<!-- ## Geneuin Skills
 사용하는 기술 스택 이미지 구성 필요
 
 <br>
