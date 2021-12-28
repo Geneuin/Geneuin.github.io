@@ -6,23 +6,23 @@ paginate: true
 entries_layout: list
 ---
 
-## Team Geneuin
+## Geneuin Inc.
 
-안녕하세요, **Team Geneuin** 입니다.
+안녕하세요, **Geneuin** 입니다.
 
-저희는 현재 SI(System Integration) Team으로 활동하고 있습니다.
-2020년 4월에 설립한 회사로 아직은 활동 기간이 길지 않습니다.
+저희는 현재 SI(System Integration)로 활동하고 있습니다.
+2020년 1월에 설립한 회사로 아직은 활동 기간이 길지 않습니다.
 짧은 기간이지만 꼼꼼한 일처리로 쉼 없이 프로젝트들을 수주하고 서비스 구축 업무를 수행하고 있습니다.
 현재는 SI 프로젝트를 수행하고 있지만,
-프로젝트를 통해 얻은 지식과 자본으로 Team Geneuin 자체 서비스 플랫폼을 준비하고 있습니다.
+프로젝트를 통해 얻은 지식과 자본으로 Geneuin 자체 서비스 플랫폼을 준비하고 있습니다.
 
 #### 연혁
 
--   2020.04 - (주) Geneuin 설립
+-   2020.01 - (주) Geneuin 설립
 
 <br>
 
-## Team Geneuin 활동
+## Geneuin 활동
 
 ### 📋 보건 복지부 IoT 돌봄 서비스 플랫폼 구축, 2021.05 ~ 현재
 
@@ -31,7 +31,7 @@ entries_layout: list
 <img src="/images/home/iot.png" style="width: 57em;">
 
 -   IoT 센서를 통해 수집한 데이터를 기반으로 사회 노약자들의 응급 상황 모니터링 시스템 구축
--   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, MySQL, NoSql, Kafka, JSP
+-   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, TIBERO, Kafka, JSP
 
 <br>
 <br>
@@ -49,24 +49,24 @@ entries_layout: list
 <br>
 <br>
 
-### 📋 K-ICT-Bigdata Center R-Portal 서비스 운영, 2021.01 ~ 현재
+### 📋 K-ICT-Bigdata Center R-Portal 서비스 추가 개발, 2021.01 ~ 현재
 
 <hr>
 
--   Cloud Hadoop Cluster, GPU Server 플랫폼 예약 시스템 운영 및 유지 보수
--   eGov Framework, Spring Webmvc, Mybatis, Java, MySQL, JSP
+-   Cloud Hadoop Cluster, GPU Server 플랫폼 예약 시스템 서비스 추가 개발
+-   eGov Framework, Spring Webmvc, Mybatis, Java, MariaDB, JSP
 
 <br>
 <br>
 
-### 📋 KC-Industrial 입출고 시스템 개발, 2020.12 ~ 현재
+### 📋 KC-Industrial MES 시스템 개발, 2020.12 ~ 현재
 
 <hr>
 
 <img src="/images/home/kc.png" style="width: 57em;">
 
 -   MES 시스템, GAS 입출고 관리 시스템 개발
--   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MySQL
+-   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 -   <http://www.kcindustrial.com/>
 
 <br>
@@ -77,7 +77,7 @@ entries_layout: list
 <hr>
 
 -   인천 수자원 공사 레거시 시스템 신규 구축
--   eGov Framework, Spring Webmvc, MyBatis, Java, MySQL
+-   eGov Framework, Spring Webmvc, MyBatis, Java, Oracle
 
 <br>
 
@@ -89,7 +89,7 @@ entries_layout: list
 <img src="/images/home/lamiche2.png" style="width: 43em;">
 
 -   피부과 모바일 어플리케이션 예약 시스템 및 서비스 플랫품 개발
--   Nativescript-Vue, Node.js, Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MySQL
+-   Nativescript-Vue, Node.js, Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 
 <br>
 <br>
@@ -99,7 +99,7 @@ entries_layout: list
 <hr>
 
 -   일반 모임 프로그램이 아닌, 챌린지를 통하여 모임을 연결해주는 플랫폼
--   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MySQL
+-   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 <!-- -   <https://www.hourchemi.kr> -->
 
 <br>
@@ -115,7 +115,7 @@ entries_layout: list
 <img src="/images/home/보고싶다5.png" style="width: 13em;">
 
 -   자신의 기억을 공유하고, 주변 사람들에게 부고 소식 등을 알릴 수 있는 SNS 서비스 플랫폼
--   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MySQL
+-   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 
 <br>
 <br>
@@ -127,7 +127,7 @@ entries_layout: list
 <img src="/images/home/장례박사1.png" style="width: 46em;">
 
 -   장례 지도사의 장례 관리 및 장례식장 모니터링 서비스 플랫폼
--   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MySQL
+-   Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 -   <https://www.jrbaksa.com/main.do>
 
 <br>
@@ -140,7 +140,7 @@ entries_layout: list
 <img src="/images/home/villam.png" style="width: 50em;">
 
 -   빌라 관리 서비스 플랫폼 개발
--   Nativescript-Vue, Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MySQL
+-   Nativescript-Vue, Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 -   <https://www.villam.co.kr/main.do>
 
 <br>
