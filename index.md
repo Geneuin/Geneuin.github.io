@@ -24,13 +24,47 @@ entries_layout: list
 
 ## Geneuin 활동
 
-### 📋 보건 복지부 IoT 돌봄 서비스 플랫폼 구축, 2021.05 ~ 현재
+### 📋한국소방시설관리협회 차세대 프로잭트 구축, 2022.03 ~ 2022.08
+
+<hr>
+
+<img src="/images/home/kfma.png" style="width: 57em;">
+
+-   한국소방시설협회의 노후회된 프로그램을 차세대 시스템으로 구축하여 지소적으로 사용 가능하도록 개발 진행.
+-   ActiveX 제거, ibatis - > mybatis 변경, java 버전 업그래이드, spring 버전 업그레이드, 모든 시스템 리뉴얼 및 재개발 진행
+-   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, ORACLE, Java, MYSQL, jsp
+-   <https://www.opnetcare.co.kr/>
+
+<br>
+<br>
+
+### 📋 보건 복지부 IoT 돌봄 서비스 중계서버 구축, 2022.01 ~ 2022.08
+
+<hr>
+
+<img src="/images/home/iotmiddle.png" style="width: 57em;">
+
+-   IoT 센서를 통해 데이터를 수집하여, 보건 복지부 IoT 돌봄 서비스와 통신하는 시스템 구축. 10만대에서 20만대로 증가하여, 중계서버의 필요성이 대두됨. 서버 부하를 방지하기위한 중계서버 구축 진행
+-   20만대의 IOT 센서를 받아 드리기위한 디비 구축 설계 진행. 
+-   많은데이터의 검색및 조회를 위한 인덱스 설계 진행
+-   IOT 장비와 통신을 위한 통신 프로토콜 구축
+-   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, MYSQL, vuejs
+-   <https://www.opnetcare.co.kr/>
+
+<br>
+<br>
+
+
+### 📋 보건 복지부 IoT 돌봄 서비스 플랫폼 구축, 2021.05 ~ 2021.12
 
 <hr>
 
 <img src="/images/home/iot.png" style="width: 57em;">
 
--   IoT 센서를 통해 수집한 데이터를 기반으로 사회 노약자들의 응급 상황 모니터링 시스템 구축
+-   IoT 센서를 통해 수집한 데이터를 기반으로 사회 노약자들의 응급 상황 모니터링 시스템 구축, 10만대의 센서 장비의 데이터를 수집하여 노약자의 활동 상태, 응급사항 등을 파악하고 모니터링하여 위기를 조기 예방 하는 시스템
+-   20만대의 IOT 센서를 받아 드리기위한 디비 구축 설계 진행. 
+-   많은데이터의 검색및 조회를 위한 인덱스 설계 진행
+-   IOT 장비와 통신을 위한 통신 프로토콜 구축
 -   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, TIBERO, Kafka, JSP
 
 <br>
@@ -49,7 +83,7 @@ entries_layout: list
 <br>
 <br>
 
-### 📋 K-ICT-Bigdata Center R-Portal 서비스 추가 개발, 2021.01 ~ 현재
+### 📋 K-ICT-Bigdata Center R-Portal 서비스 추가 개발, 2021.01 ~ 2021.03
 
 <hr>
 
@@ -59,7 +93,7 @@ entries_layout: list
 <br>
 <br>
 
-### 📋 KC-Industrial MES 시스템 개발, 2020.12 ~ 현재
+### 📋 KC-Industrial MES 시스템 개발, 2020.12 ~ 2021.08
 
 <hr>
 
@@ -72,7 +106,7 @@ entries_layout: list
 <br>
 <br>
 
-### 📋 인천 수자원 공사 레거시 시스템 재구축, 2021.05 ~ 현재
+### 📋 인천 수자원 공사 레거시 시스템 재구축, 2021.05 ~ 2021.12
 
 <hr>
 
@@ -81,7 +115,7 @@ entries_layout: list
 
 <br>
 
-### 📋 라미체 모바일 어플리케이션 및 서비스 플랫폼 개발, 2020.07 ~ 현재
+### 📋 라미체 모바일 어플리케이션 및 서비스 플랫폼 개발, 2020.07 ~ 2020.12
 
 <hr>
 
@@ -94,7 +128,7 @@ entries_layout: list
 <br>
 <br>
 
-### 📋 아워케미(Hourchemi) 서비스 플랫폼 개발 및 서비스 운영, 2020.10 ~ 현재
+### 📋 아워케미(Hourchemi) 서비스 플랫폼 개발 및 서비스 운영, 2020.10 ~ 2020.12
 
 <hr>
 
