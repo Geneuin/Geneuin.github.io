@@ -38,6 +38,20 @@ entries_layout: list
 <br>
 <br>
 
+
+### 📋NFT 플랫폼 구축, 2021.12 ~ 2022.04
+
+<hr>
+
+<img src="/images/home/nft.png" style="width: 57em;">
+
+-   플라타익스체인지와 협약하여 새로운 프로잭트, NFT 플랫폼 시스템 구축 개발 진행
+-   sprignBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vuejs
+-   <https://www.opnetcare.co.kr/>
+
+<br>
+<br>
+
 ### 📋 보건 복지부 IoT 돌봄 서비스 중계서버 구축, 2022.01 ~ 2022.08
 
 <hr>
