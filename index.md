@@ -27,7 +27,7 @@ entries_layout: list
 
 <hr>
 
-<img src="/images/home/kcMonitoring.png" style="width: 57em;">
+<img src="/images/home/hwian.png" style="width: 57em;">
 
 -   주식회사 HWIAN의 장비 설치, 유지보수등의 정보를 모바일 앱과, 웹으로 관리하기 위한 프로그램 개발.
 -   유지보수 진행중.
