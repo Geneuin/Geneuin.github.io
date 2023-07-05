@@ -23,6 +23,31 @@ entries_layout: list
 <br>
 
 ## Geneuin 활동
+### 📋Hwian 설치, 유지보수 관리 시스템 구축, 2023.01 ~ 2023.04
+
+<hr>
+
+<img src="/images/home/kcMonitoring.png" style="width: 57em;">
+
+-   주식회사 HWIAN의 장비 설치, 유지보수등의 정보를 모바일 앱과, 웹으로 관리하기 위한 프로그램 개발.
+-   유지보수 진행중.
+-   springboot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, jpa, vue
+-   <https://www.hwian.co.kr/>
+
+<br>
+<br>
+### 📋KC-industrial 공장 모니터링 시스템 구축, 2022.03 ~ 2022.08
+
+<hr>
+
+<img src="/images/home/kcMonitoring.png" style="width: 57em;">
+
+-   KC-industrial 공장의 agv, wms, mes를 통한 라인, 공정과정, 공정정보등 모니터링 가능한 시스템 개발 진행.
+-   sprignBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vuejs
+-   <https://www.opnetcare.co.kr/>
+
+<br>
+<br>
 
 ### 📋한국소방시설관리협회 차세대 프로잭트 구축, 2022.03 ~ 2022.08
 
@@ -33,7 +58,7 @@ entries_layout: list
 -   한국소방시설협회의 노후회된 프로그램을 차세대 시스템으로 구축하여 지소적으로 사용 가능하도록 개발 진행.
 -   ActiveX 제거, ibatis - > mybatis 변경, java 버전 업그래이드, spring 버전 업그레이드, 모든 시스템 리뉴얼 및 재개발 진행
 -   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, ORACLE, Java, MYSQL, jsp
--   <https://www.opnetcare.co.kr/>
+-   비공개
 
 <br>
 <br>
