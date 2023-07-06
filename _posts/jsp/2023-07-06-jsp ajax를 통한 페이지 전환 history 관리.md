@@ -7,7 +7,7 @@ share: false
 ---
 
 # 페이지 목차
-1. [jsp ajax를 통한 페이지 전환 history 관리]({% post_url /jsp/2023-07-06-jsp-1-jsp ajax를 통한 페이지 전환 history 관리 %})
+1. [jsp ajax를 통한 페이지 전환 history 관리]({% post_url /jsp/2023-07-06-jsp ajax를 통한 페이지 전환 history 관리 %})
 
 ## jsp ajax를 통한 페이지 전환 history 관리
 
