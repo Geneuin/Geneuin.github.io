@@ -1,13 +1,13 @@
 ---
 title: "ajax를 통한 페이지 전환 history 관리"
-date: 2023-07-06T22:11:00+09:00
+date: 2023-07-06T00:19:00+09:00
 categories: 
-    - jsp
+    - JSP
 share: false
 ---
 
 # 페이지 목차
-2. [jsp ajax를 통한 페이지 전환 history 관리]({% post_url /jsp/2023-07-06-jsp-1-jsp ajax를 통한 페이지 전환 history 관리 %})
+1. [jsp ajax를 통한 페이지 전환 history 관리]({% post_url /jsp/2023-07-06-jsp-1-jsp ajax를 통한 페이지 전환 history 관리 %})
 
 ## jsp ajax를 통한 페이지 전환 history 관리
 
