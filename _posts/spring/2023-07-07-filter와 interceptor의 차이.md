@@ -7,7 +7,8 @@ share: false
 ---
 
 # 페이지 목차
-1. [filter와 interceptor의 차이]({% post_url /jsp/2023-07-07-filter와 interceptor의 차이 %})
+1. [filter와 interceptor의 차이]({% post_url /spring/2023-07-07-filter와 interceptor의 차이 %})
+2. [filte를 통한 크로스사이트스크립트 처리]({% post_url /spring/2023-07-07-filte를 통한 크로스사이트스크립트 처리 %})
 
 ## 2023-07-07-filter와 interceptor의 차이
 
