@@ -44,7 +44,7 @@ entries_layout: list
 
 -   KC-industrial 공장의 agv, wms, mes를 통한 라인, 공정과정, 공정정보등 모니터링 가능한 시스템 개발 진행.
 -   sprignBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vuejs
--   <https://www.opnetcare.co.kr/>
+-   비공개
 
 <br>
 <br>
@@ -72,7 +72,7 @@ entries_layout: list
 
 -   플라타익스체인지와 협약하여 새로운 프로잭트, NFT 플랫폼 시스템 구축 개발 진행
 -   sprignBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vuejs
--   <https://www.opnetcare.co.kr/>
+-   <https://www.mtwos.io/>
 
 <br>
 <br>
@@ -88,7 +88,7 @@ entries_layout: list
 -   많은데이터의 검색및 조회를 위한 인덱스 설계 진행
 -   IOT 장비와 통신을 위한 통신 프로토콜 구축
 -   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, MYSQL, vuejs
--   <https://www.opnetcare.co.kr/>
+-   비공개
 
 <br>
 <br>
@@ -105,6 +105,7 @@ entries_layout: list
 -   많은데이터의 검색및 조회를 위한 인덱스 설계 진행
 -   IOT 장비와 통신을 위한 통신 프로토콜 구축
 -   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, TIBERO, Kafka, JSP
+-   비공개
 
 <br>
 <br>
@@ -128,6 +129,7 @@ entries_layout: list
 
 -   Cloud Hadoop Cluster, GPU Server 플랫폼 예약 시스템 서비스 추가 개발
 -   eGov Framework, Spring Webmvc, Mybatis, Java, MariaDB, JSP
+-   <https://kbig.kr/portal/>
 
 <br>
 <br>
@@ -151,6 +153,7 @@ entries_layout: list
 
 -   인천 수자원 공사 레거시 시스템 신규 구축
 -   eGov Framework, Spring Webmvc, MyBatis, Java, Oracle
+-   비공개
 
 <br>
 
@@ -163,6 +166,7 @@ entries_layout: list
 
 -   피부과 모바일 어플리케이션 예약 시스템 및 서비스 플랫품 개발
 -   Nativescript-Vue, Node.js, Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
+-   <https://play.google.com/store/apps/details?id=org.geneuin.drlamiche>
 
 <br>
 <br>
