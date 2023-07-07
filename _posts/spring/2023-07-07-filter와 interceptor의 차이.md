@@ -10,7 +10,7 @@ share: false
 1. [filter와 interceptor의 차이]({% post_url /spring/2023-07-07-filter와 interceptor의 차이 %})
 2. [filte를 통한 크로스사이트스크립트 처리]({% post_url /spring/2023-07-07-filte를 통한 크로스사이트스크립트 처리 %})
 
-## 2023-07-07-filter와 interceptor의 차이
+## filter와 interceptor의 차이
 
 - Spring은 공통으로 여러 작업을 처리할 수 있도록 기능들을 지원한다. 그중 filter와 interceptor를 확인하고 그 차이를 비교해보았다.
 
