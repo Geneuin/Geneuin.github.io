@@ -21,6 +21,78 @@ entries_layout: list
 <br>
 
 ## Geneuin 활동
+
+
+
+### 안전보안스마트워치 통신 프로토콜, 관리 시스템 구축, 2024.03 ~ 2024.06
+
+<hr>
+
+<img src="/images/home/안전보안스마트워치.png" style="width: 57em;">
+
+-   안전보안스마트워치 프로토콜 중개서버 구축, 관리 시스템 구축
+-   Springboot, Spring Webmvc, Spring Batch, Spring Security, mysql, Java, jsp, android, ios, vue
+-   <http://45.115.154.26:8080/userfront/>
+
+<br>
+<br>
+
+
+
+### 📋Teeupnjoy 골프장 예약, 조인 시스템 차세대 프로젝트 구축, 2024.01 ~ 2024.03
+
+<hr>
+
+<img src="/images/home/티업앤조이.png" style="width: 57em;">
+
+-   Teeupnjoy 골프장 예약, 조인시스템의 차세대 프로젝트 구축
+-   SpringFramework, Spring Webmvc, Spring Batch, Spring Security, mysql, Java, jsp, android, ios
+-   <https://teeupnjoy.com/>
+
+<br>
+<br>
+
+
+### 📋이건마루 소개 카탈로그 페이지 구축, 2023.07 ~ 2023.09
+
+<hr>
+
+<img src="/images/home/이건마루.png" style="width: 57em;">
+
+-   이건마루내 제품 소개 카탈로그 페이지 구축
+-   springboot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vue
+-   <https://teeupnjoy.com/>
+
+<br>
+<br>
+
+### 📋 심빌리지 이심, 유심 네이버 스토어의 구매이력을 자동 매일, 카카오, 문자 발송 시스템 구축, 2023.05 ~ 2024.12
+
+<hr>
+
+<img src="/images/home/심빌리지.png" style="width: 57em;">
+
+-   심빌리지 자동 발송 시스템 구축
+-   SpringBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vue
+-   비공개
+
+<br>
+<br>
+
+
+### 📋Chemtopia 공공기관안전활동수준평가 시스템 구축, 2023.05 ~ 2023.10
+
+<hr>
+
+<img src="/images/home/공공기관안전활동수준평가.png" style="width: 57em;">
+
+-   주식회사 캠토비아의 내부 시스템 공공기관안전활동수준평가 시스템 구축
+-   egovframework, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, jsp
+-   비공개
+
+<br>
+<br>
+
 ### 📋Hwian 설치, 유지보수 관리 시스템 구축, 2023.01 ~ 2023.04
 
 <hr>
