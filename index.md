@@ -24,6 +24,47 @@ entries_layout: list
 
 
 
+### 서울특별시 9988 유지보수, 2025.01 ~ 2025.12
+
+<hr>
+
+<img src="/images/home/9988.png" style="width: 57em;">
+
+-   서울특별시 9988 서비스 유지보수
+-   nodejs, react, pm2, postgresql, android, ios
+-   <https://onhealth.seoul.go.kr/plus/web/>
+
+<br>
+<br>
+
+### 한솔루션 홈페이지 구축 및 유지보수, 2024.08 ~ 
+
+<hr>
+
+<img src="/images/home/han.png" style="width: 57em;">
+
+-   한솔루션 소개페이지 구축 및 관리
+-   Springboot, Spring Webmvc, mariadb, jsp
+-   <https://www.hansolution.net/>
+
+<br>
+<br>
+
+
+### 한솔루션 더 드림 재활 주간보호센터 구축 및 유지보수, 2024.07 ~ 
+
+<hr>
+
+<img src="/images/home/더드림.png" style="width: 57em;">
+
+-   한솔루션 더 드림 재활 주간보호센터 페이지 구축 및 관리
+-   Springboot, Spring Webmvc, mariadb, jsp
+-   <https://xn--s39ar2lv7awzj0re7vwxfv.kr//>
+
+<br>
+<br>
+
+
 ### 안전보안스마트워치 통신 프로토콜, 관리 시스템 구축, 2024.03 ~ 2024.06
 
 <hr>
@@ -39,7 +80,7 @@ entries_layout: list
 
 
 
-### 📋Teeupnjoy 골프장 예약, 조인 시스템 차세대 프로젝트 구축, 2024.01 ~ 2024.03
+### 📋Teeupnjoy 골프장 예약, 조인 시스템 차세대 프로젝트 구축 및 유지보수, 2024.01 ~ 
 
 <hr>
 
@@ -227,7 +268,7 @@ entries_layout: list
 
 <br>
 
-### 📋 라미체 모바일 어플리케이션 및 서비스 플랫폼 개발, 2020.07 ~ 2020.12
+### 📋 라미체 모바일 어플리케이션 및 서비스 플랫폼 개발 및 유지보수, 2020.07 ~ 
 
 <hr>
 
