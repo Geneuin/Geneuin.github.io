@@ -73,7 +73,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/9988.png" style="width: 57em;">
 
 -   서울특별시 9988 서비스 유지보수
--   nodejs, react, pm2, postgresql, android, ios
+-   Node.js, react, pm2, postgresql, Android, iOS
 -   <https://onhealth.seoul.go.kr/plus/web/>
 
 <br>
@@ -86,7 +86,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/han.png" style="width: 57em;">
 
 -   한솔루션 소개페이지 구축 및 관리
--   Springboot, Spring Webmvc, mariadb, jsp
+-   Spring Boot, Spring Spring Web MVC, MariaDB, JSP
 -   <https://www.hansolution.net/>
 
 <br>
@@ -100,21 +100,21 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/더드림.png" style="width: 57em;">
 
 -   한솔루션 더 드림 재활 주간보호센터 페이지 구축 및 관리
--   Springboot, Spring Webmvc, mariadb, jsp
+-   Spring Boot, Spring Spring Web MVC, MariaDB, JSP
 -   <https://xn--s39ar2lv7awzj0re7vwxfv.kr//>
 
 <br>
 <br>
 
 
-### 안전보안스마트워치 통신 프로토콜, 관리 시스템 구축, 2024.03 ~ 2024.06
+### 안전보안스마트워치 통신 프로토콜 및 관리 시스템 구축, 2024.03 ~ 2024.06
 
 <hr>
 
 <img src="/images/home/안전보안스마트워치.png" style="width: 57em;">
 
 -   안전보안스마트워치 프로토콜 중개서버 구축, 관리 시스템 구축
--   Springboot, Spring Webmvc, Spring Batch, Spring Security, mysql, Java, jsp, android, ios, vue
+-   Spring Boot, Spring Spring Web MVC, Spring Batch, Spring Security, MySQL, Java, JSP, Android, iOS, vue
 -   <http://45.115.154.26:8080/userfront/>
 
 <br>
@@ -129,7 +129,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/티업앤조이.png" style="width: 57em;">
 
 -   Teeupnjoy 골프장 예약, 조인시스템의 차세대 프로젝트 구축
--   SpringFramework, Spring Webmvc, Spring Batch, Spring Security, mysql, Java, jsp, android, ios
+-   SpringFramework, Spring Spring Web MVC, Spring Batch, Spring Security, MySQL, Java, JSP, Android, iOS
 -   <https://teeupnjoy.com/>
 
 <br>
@@ -143,7 +143,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/이건마루.png" style="width: 57em;">
 
 -   이건마루내 제품 소개 카탈로그 페이지 구축
--   springboot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vue
+-   Spring Boot, Spring Spring Web MVC, Spring Batch, Spring Security, MariaDB, Java, vue
 -   <https://teeupnjoy.com/>
 
 <br>
@@ -156,8 +156,8 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/심빌리지.png" style="width: 57em;">
 
 -   심빌리지 자동 발송 시스템 구축
--   SpringBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vue
--   비공개
+-   Spring Boot, Spring Spring Web MVC, Spring Batch, Spring Security, MariaDB, Java, vue
+-   (비공개)
 
 <br>
 <br>
@@ -170,8 +170,8 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/공공기관안전활동수준평가.png" style="width: 57em;">
 
 -   주식회사 캠토비아의 내부 시스템 공공기관안전활동수준평가 시스템 구축
--   egovframework, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, jsp
--   비공개
+-   egovframework, Spring Spring Web MVC, Spring Batch, Spring Security, MariaDB, Java, JSP
+-   (비공개)
 
 <br>
 <br>
@@ -182,9 +182,8 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 
 <img src="/images/home/hwian.png" style="width: 57em;">
 
--   주식회사 HWIAN의 장비 설치, 유지보수등의 정보를 모바일 앱과, 웹으로 관리하기 위한 프로그램 개발.
--   유지보수 진행중.
--   springboot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, jpa, vue
+-   주식회사 HWIAN의 장비 설치, 유지보수 등의 정보를 모바일 앱과, 웹으로 관리하기 위한 프로그램을 개발하였으며, 현재 유지보수를 진행 중
+-   Spring Boot, Spring Spring Web MVC, Spring Batch, Spring Security, MariaDB, Java, jpa, vue
 -   <https://www.hwian.co.kr/>
 
 <br>
@@ -195,23 +194,23 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 
 <img src="/images/home/kcMonitoring.png" style="width: 57em;">
 
--   KC-industrial 공장의 agv, wms, mes를 통한 라인, 공정과정, 공정정보등 모니터링 가능한 시스템 개발 진행.
--   sprignBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vuejs
--   비공개
+-   KC-industrial 공장의 agv, wms, mes를 통한 라인, 공정과정, 공정정보등 모니터링 가능한 시스템 개발 진행
+-   Spring Boot, Spring Spring Web MVC, Spring Batch, Spring Security, MariaDB, Java, Vue.js
+-   (비공개)
 
 <br>
 <br>
 
-### 📋한국소방시설관리협회 차세대 프로잭트 구축, 2022.03 ~ 2022.08
+### 📋한국소방시설관리협회 차세대 프로젝트 구축, 2022.03 ~ 2022.08
 
 <hr>
 
 <img src="/images/home/kfma.png" style="width: 57em;">
 
--   한국소방시설협회의 노후회된 프로그램을 차세대 시스템으로 구축하여 지소적으로 사용 가능하도록 개발 진행.
--   ActiveX 제거, ibatis - > mybatis 변경, java 버전 업그래이드, spring 버전 업그레이드, 모든 시스템 리뉴얼 및 재개발 진행
--   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, ORACLE, Java, MYSQL, jsp
--   비공개
+-   한국소방시설협회의 노후회된 프로그램을 차세대 시스템으로 구축하여 지속적으로 사용 가능하도록 개발 진행
+-   ActiveX 제거, ibatis - > MyBatis 변경, java 버전 업그래이드, spring 버전 업그레이드, 모든 시스템 리뉴얼 및 재개발 진행
+-   eGov Framework, Spring Spring Web MVC, Spring Batch, Spring Security, ORACLE, Java, MySQL, JSP
+-   (비공개)
 
 <br>
 <br>
@@ -223,31 +222,31 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 
 <img src="/images/home/nft.png" style="width: 57em;">
 
--   플라타익스체인지와 협약하여 새로운 프로잭트, NFT 플랫폼 시스템 구축 개발 진행
--   sprignBoot, Spring Webmvc, Spring Batch, Spring Security, mariadb, Java, vuejs
+-   플라타익스체인지와 협약하여 새로운 프로젝트, NFT 플랫폼 시스템 구축 개발 진행
+-   Spring Boot, Spring Spring Web MVC, Spring Batch, Spring Security, MariaDB, Java, Vue.js
 -   <https://www.mtwos.io/>
 
 <br>
 <br>
 
-### 📋 보건 복지부 IoT 돌봄 서비스 중계서버 구축, 2022.01 ~ 2022.08
+### 📋 보건복지부 IoT 돌봄 서비스 중계서버 구축, 2022.01 ~ 2022.08
 
 <hr>
 
 <img src="/images/home/iotmiddle.png" style="width: 57em;">
 
--   IoT 센서를 통해 데이터를 수집하여, 보건 복지부 IoT 돌봄 서비스와 통신하는 시스템 구축. 10만대에서 20만대로 증가하여, 중계서버의 필요성이 대두됨. 서버 부하를 방지하기위한 중계서버 구축 진행
+-   IoT 센서를 통해 수집된 데이터를 기반으로, 보건복지부 IoT 돌봄 서비스와 통신하는 시스템 구축. 10만대에서 20만대로 증가하여, 중계서버의 필요성이 대두됨. 서버 부하를 방지하기위한 중계서버 구축 진행
 -   20만대의 IOT 센서를 받아 드리기위한 디비 구축 설계 진행. 
--   많은데이터의 검색및 조회를 위한 인덱스 설계 진행
+-   많은 데이터의 검색 및 조회를 위한 인덱스 설계 진행
 -   IOT 장비와 통신을 위한 통신 프로토콜 구축
--   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, MYSQL, vuejs
--   비공개
+-   eGov Framework, Spring Spring Web MVC, Spring Batch, Spring Security, MyBatis, Java, MySQL, Vue.js
+-   (비공개)
 
 <br>
 <br>
 
 
-### 📋 보건 복지부 IoT 돌봄 서비스 플랫폼 구축, 2021.05 ~ 2021.12
+### 📋 보건복지부 IoT 돌봄 서비스 플랫폼 구축, 2021.05 ~ 2021.12
 
 <hr>
 
@@ -255,10 +254,10 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 
 -   IoT 센서를 통해 수집한 데이터를 기반으로 사회 노약자들의 응급 상황 모니터링 시스템 구축, 10만대의 센서 장비의 데이터를 수집하여 노약자의 활동 상태, 응급사항 등을 파악하고 모니터링하여 위기를 조기 예방 하는 시스템
 -   20만대의 IOT 센서를 받아 드리기위한 디비 구축 설계 진행. 
--   많은데이터의 검색및 조회를 위한 인덱스 설계 진행
+-   많은 데이터의 검색 및 조회를 위한 인덱스 설계 진행
 -   IOT 장비와 통신을 위한 통신 프로토콜 구축
--   eGov Framework, Spring Webmvc, Spring Batch, Spring Security, MyBatis, Java, TIBERO, Kafka, JSP
--   비공개
+-   eGov Framework, Spring Spring Web MVC, Spring Batch, Spring Security, MyBatis, Java, TIBERO, Kafka, JSP
+-   (비공개)
 
 <br>
 <br>
@@ -270,7 +269,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/kict.png" style="width: 57em;">
 
 -   관리자 페이지, 홈페이지를 구축한 서버에 적용된 Enview Framework 분석 및 기능 추가
--   Enview Framework, Spring Webmvc, Mybatis, Java, MySQL, JSP
+-   Enview Framework, Spring Spring Web MVC, MyBatis, Java, MySQL, JSP
 -   <https://kbig.kr/portal/>
 
 <br>
@@ -281,7 +280,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <hr>
 
 -   Cloud Hadoop Cluster, GPU Server 플랫폼 예약 시스템 서비스 추가 개발
--   eGov Framework, Spring Webmvc, Mybatis, Java, MariaDB, JSP
+-   eGov Framework, Spring Spring Web MVC, MyBatis, Java, MariaDB, JSP
 -   <https://kbig.kr/portal/>
 
 <br>
@@ -305,8 +304,8 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <hr>
 
 -   인천 수자원 공사 레거시 시스템 신규 구축
--   eGov Framework, Spring Webmvc, MyBatis, Java, Oracle
--   비공개
+-   eGov Framework, Spring Spring Web MVC, MyBatis, Java, Oracle
+-   (비공개)
 
 <br>
 
@@ -317,7 +316,7 @@ Spring Boot, Vue.js, React, Node.js, PostgreSQL, 클라우드 인프라(AWS, Doc
 <img src="/images/home/lamiche.png" style="width: 15em;">
 <img src="/images/home/lamiche2.png" style="width: 43em;">
 
--   피부과 모바일 어플리케이션 예약 시스템 및 서비스 플랫품 개발
+-   피부과 모바일 어플리케이션 예약 시스템 및 서비스 플랫폼 개발
 -   Nativescript-Vue, Node.js, Vue.js, Spring Boot, Spring Security, Spring Data Jpa, Java, MariaDB
 -   <https://play.google.com/store/apps/details?id=org.geneuin.drlamiche>
 
